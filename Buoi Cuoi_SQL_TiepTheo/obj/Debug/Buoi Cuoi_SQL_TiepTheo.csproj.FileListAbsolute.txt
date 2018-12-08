@@ -1,0 +1,10 @@
+C:\Users\quythuong1998\source\repos\Buoi Cuoi_SQL_TiepTheo\Buoi Cuoi_SQL_TiepTheo\bin\Debug\Buoi Cuoi_SQL_TiepTheo.exe.config
+C:\Users\quythuong1998\source\repos\Buoi Cuoi_SQL_TiepTheo\Buoi Cuoi_SQL_TiepTheo\bin\Debug\Buoi Cuoi_SQL_TiepTheo.exe
+C:\Users\quythuong1998\source\repos\Buoi Cuoi_SQL_TiepTheo\Buoi Cuoi_SQL_TiepTheo\bin\Debug\Buoi Cuoi_SQL_TiepTheo.pdb
+C:\Users\quythuong1998\source\repos\Buoi Cuoi_SQL_TiepTheo\Buoi Cuoi_SQL_TiepTheo\obj\Debug\Buoi Cuoi_SQL_TiepTheo.csprojAssemblyReference.cache
+C:\Users\quythuong1998\source\repos\Buoi Cuoi_SQL_TiepTheo\Buoi Cuoi_SQL_TiepTheo\obj\Debug\Buoi_Cuoi_SQL_TiepTheo.Form1.resources
+C:\Users\quythuong1998\source\repos\Buoi Cuoi_SQL_TiepTheo\Buoi Cuoi_SQL_TiepTheo\obj\Debug\Buoi_Cuoi_SQL_TiepTheo.Properties.Resources.resources
+C:\Users\quythuong1998\source\repos\Buoi Cuoi_SQL_TiepTheo\Buoi Cuoi_SQL_TiepTheo\obj\Debug\Buoi Cuoi_SQL_TiepTheo.csproj.GenerateResource.cache
+C:\Users\quythuong1998\source\repos\Buoi Cuoi_SQL_TiepTheo\Buoi Cuoi_SQL_TiepTheo\obj\Debug\Buoi Cuoi_SQL_TiepTheo.csproj.CoreCompileInputs.cache
+C:\Users\quythuong1998\source\repos\Buoi Cuoi_SQL_TiepTheo\Buoi Cuoi_SQL_TiepTheo\obj\Debug\Buoi Cuoi_SQL_TiepTheo.exe
+C:\Users\quythuong1998\source\repos\Buoi Cuoi_SQL_TiepTheo\Buoi Cuoi_SQL_TiepTheo\obj\Debug\Buoi Cuoi_SQL_TiepTheo.pdb
